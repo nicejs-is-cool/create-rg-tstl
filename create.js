@@ -5,7 +5,6 @@ import Spinnies from 'spinnies'
 import path from 'path'
 import { spawn } from 'child_process'
 import fs from 'fs/promises';
-import util from 'util';
 import { constants } from 'fs';
 import axios from 'axios';
 
