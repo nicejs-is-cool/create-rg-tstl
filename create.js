@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 //@ts-check
 import inquirer from 'inquirer'
 import Spinnies from 'spinnies'

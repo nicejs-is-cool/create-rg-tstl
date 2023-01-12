@@ -17,5 +17,6 @@
   "type": "module",
   "devDependencies": {
     "typescript-to-lua": "^1.11.1"
-  }
+  },
+  "bin": "./create.js"
 }
